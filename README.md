@@ -108,8 +108,7 @@ This project is licensed under the **MIT License**. See the [LICENSE](./LICENSE)
 For any questions or inquiries, feel free to reach out:
 
 - **Email**: webdev.prasath@gmail.com
-- **Website**: [Revotronics Official Website](#)
-- **GitHub**: [Your GitHub Profile](https://github.com/your-username)
+- **GitHub**: [Your GitHub Profile](https://github.com/Krishnaprasathvenkadesan)
 
 ---
 
